@@ -1,4 +1,4 @@
-# flutter-projects-23
+# Flutter-projects
 
 ![image](https://github.com/SnowScriptWinterOfCode/Flutter-Projects/assets/97171261/894e0d8f-151f-423d-b95e-07e588d57dfb)
 
@@ -7,7 +7,7 @@
 
 Please reach out to the maintainers if you get stuck or wish to report someone.
 
-
+## Abstract
 A repository for showcasing your Flutter Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
 You can add any flutter project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you, and contribute!
 
