@@ -7,8 +7,11 @@
 
 Please reach out to the maintainers if you get stuck or wish to report someone.
 
+## Reviewers
+@Namya13Jain 
+
 ## Abstract
-A repository for showcasing your Flutter Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
+A repository for showcasing your Flutter Projects for the SnowScript Winter of Code program. <br/> 
 You can add any flutter project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you, and contribute!
 
 
